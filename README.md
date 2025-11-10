@@ -47,14 +47,6 @@ We applied multiple machine learning models and compared their performance to id
 | Logistic Regression | 1.000 | 1.000 | 1.000 | 1.000 |
 | Neural Network | 1.000 | 1.000 | 1.000 | 1.000 |
 
-> ⚠ Note: Perfect performance suggests potential overfitting; cross-validation is recommended for generalization checks.
-
-## How to Run
-
-1. Open the notebook in **Google Colab**:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Mice_Protein_Expression_Prediction.ipynb)
-2. Follow the cells to preprocess the data, train models, and evaluate performance.  
-3. All required packages are listed at the top of the notebook.
 
 ## Key Insights
 
